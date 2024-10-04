@@ -3,7 +3,7 @@ actividad en clase
 
 print(" ")
 
-print("Dylan Aaron Elicserio Marínez 3°W")
+print("Castruita Soto Emmanuel 3°W")
 
 print(" ")
 
